@@ -5,7 +5,7 @@ Code for Adversarial Training for Multimodal Large Language Models against Jailb
 
  Clone this repository and navigate to ProEAT folder.
 ```
-git clone https://github.com/xiyuzzz-njust/ProEAT/
+git clone https://github.com/AIASLab/ProEAT/
 cd ProEAT
 conda create -n ProEAT python=3.10 -y
 conda activate ProEAT
